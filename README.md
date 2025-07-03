@@ -52,13 +52,6 @@
 
 ---
 
-## 📝 最近动态
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 📫 联系方式
 
 - 邮箱：16422802@qq.com
@@ -71,9 +64,3 @@
 
 感谢开源社区和每一位同行者的支持和指教！  
 ⭐️**欢迎 Star / Fork / PR / Issues！**
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mqxu&theme=vue" alt="activity graph" />
-</p>
